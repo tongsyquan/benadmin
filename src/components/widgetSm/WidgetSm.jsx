@@ -9,7 +9,7 @@ export default function WidgetSm() {
       <ul className="widgetSmList">
         <li className="widgetSmListItem">
           <img
-            src="https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/82962498_1499171823569064_6725254418519818240_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_ohc=RQkNajlmkJoAX-5jgUk&_nc_ht=scontent-sin6-3.xx&oh=96d1443d12cd1b481d33e3067bda7457&oe=60F2DB19"
+            src="https://images.pexels.com/photos/4130054/pexels-photo-4130054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
             alt=""
             className="widgetSmImg"
           />
@@ -24,7 +24,7 @@ export default function WidgetSm() {
         </li>
         <li className="widgetSmListItem">
           <img
-            src="https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/82962498_1499171823569064_6725254418519818240_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_ohc=RQkNajlmkJoAX-5jgUk&_nc_ht=scontent-sin6-3.xx&oh=96d1443d12cd1b481d33e3067bda7457&oe=60F2DB19"
+            src="https://images.pexels.com/photos/4130054/pexels-photo-4130054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
             alt=""
             className="widgetSmImg"
           />
@@ -39,7 +39,7 @@ export default function WidgetSm() {
         </li>
         <li className="widgetSmListItem">
           <img
-            src="https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/82962498_1499171823569064_6725254418519818240_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_ohc=RQkNajlmkJoAX-5jgUk&_nc_ht=scontent-sin6-3.xx&oh=96d1443d12cd1b481d33e3067bda7457&oe=60F2DB19"
+            src="https://images.pexels.com/photos/4130054/pexels-photo-4130054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
             alt=""
             className="widgetSmImg"
           />
@@ -54,7 +54,7 @@ export default function WidgetSm() {
         </li>
         <li className="widgetSmListItem">
           <img
-            src="https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/82962498_1499171823569064_6725254418519818240_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_ohc=RQkNajlmkJoAX-5jgUk&_nc_ht=scontent-sin6-3.xx&oh=96d1443d12cd1b481d33e3067bda7457&oe=60F2DB19"
+            src="https://images.pexels.com/photos/4130054/pexels-photo-4130054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
             alt=""
             className="widgetSmImg"
           />
@@ -69,7 +69,7 @@ export default function WidgetSm() {
         </li>
         <li className="widgetSmListItem">
           <img
-            src="https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/82962498_1499171823569064_6725254418519818240_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_ohc=RQkNajlmkJoAX-5jgUk&_nc_ht=scontent-sin6-3.xx&oh=96d1443d12cd1b481d33e3067bda7457&oe=60F2DB19"
+            src="https://images.pexels.com/photos/4130054/pexels-photo-4130054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
             alt=""
             className="widgetSmImg"
           />

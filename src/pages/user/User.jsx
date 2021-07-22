@@ -23,7 +23,7 @@ export default function User() {
         <div className="userShow">
           <div className="userShowTop">
             <img
-              src="https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/82962498_1499171823569064_6725254418519818240_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_ohc=RQkNajlmkJoAX-5jgUk&_nc_ht=scontent-sin6-3.xx&oh=96d1443d12cd1b481d33e3067bda7457&oe=60F2DB19"
+              src="https://images.pexels.com/photos/2523934/pexels-photo-2523934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
               alt=""
               className="userShowImg"
             />
@@ -106,7 +106,7 @@ export default function User() {
               <div className="userUpdateUpload">
                 <img
                   className="userUpdateImg"
-                  src="https://scontent-sin6-3.xx.fbcdn.net/v/t1.6435-9/82962498_1499171823569064_6725254418519818240_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_ohc=RQkNajlmkJoAX-5jgUk&_nc_ht=scontent-sin6-3.xx&oh=96d1443d12cd1b481d33e3067bda7457&oe=60F2DB19"
+                  src="https://images.pexels.com/photos/2523934/pexels-photo-2523934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
                   alt=""
                 />
                 <label htmlFor="file">

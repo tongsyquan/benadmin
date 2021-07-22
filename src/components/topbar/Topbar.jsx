@@ -22,7 +22,7 @@ export default function Topbar() {
             <Settings />
           </div>
           <img
-            src="https://scontent-xsp1-1.xx.fbcdn.net/v/t1.6435-9/129598789_1804277886391788_3205979701051126998_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=UPkvsgYt_bMAX8cdsRe&_nc_ht=scontent-xsp1-1.xx&oh=2e031cb3e1056994a4b1d3d3f64ff684&oe=60F0E11D"
+            src="https://images.pexels.com/photos/4103244/pexels-photo-4103244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
             alt="avt"
             className="topAvatar"
           />
